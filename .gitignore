@@ -1,0 +1,23 @@
+# System
+.phoenix_cli/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Data & Checkpoints
+checkpoints/
+data/
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
+
